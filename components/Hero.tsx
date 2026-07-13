@@ -70,7 +70,7 @@ export default function Hero() {
             className="mt-10 flex items-center gap-6 text-sm text-gray-500"
           >
             <a
-              href="https://github.com/YOUR_GITHUB"
+              href="https://github.com/KhinKhine/"
               target="_blank"
               rel="noopener noreferrer"
               className="transition hover:text-white"
@@ -79,7 +79,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="https://linkedin.com/in/YOUR_LINKEDIN"
+              href="https://linkedin.com/in/khin-kyi-kyi-khine-10a427261"
               target="_blank"
               rel="noopener noreferrer"
               className="transition hover:text-white"
@@ -88,7 +88,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/khinkyikyikhine.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="transition hover:text-white"

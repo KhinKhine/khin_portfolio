@@ -44,7 +44,7 @@ export default function Contact() {
             </a>
 
             <a
-                href="/khinkyikyikhine.pdf"
+                href="/KhinKyi_KyiKhine.pdf"
                 target="_blank"
                 className="rounded-full border border-white/20 px-6 py-3 transition hover:border-fuchsia-400 hover:text-fuchsia-300"
             >

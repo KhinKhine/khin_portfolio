@@ -88,7 +88,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/khinkyikyikhine.pdf"
+              href="/KhinKyi_KyiKhine.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="transition hover:text-white"

@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
-    period: "2026 - Present",
+    period: "2025 - Present",
     role: "Frontend Engineer / Web Designer",
     company: "Torat Co., Ltd. | Tokyo, Japan",
     description:

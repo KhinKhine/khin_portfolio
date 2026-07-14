@@ -6,7 +6,7 @@ const experiences = [
   {
     period: "2026 - Present",
     role: "Frontend Engineer / Web Designer",
-    company: "Idealump Co., Ltd. | Tokyo, Japan",
+    company: "Torat Co., Ltd. | Tokyo, Japan",
     description:
       "Maintain and improve company websites, enhance UI/UX, develop responsive web pages, manage WordPress websites, and support internal web systems using HTML, CSS, JavaScript, PHP, and Bootstrap, while continuing to develop practical skills in React, Next.js, and TypeScript.",
   },
